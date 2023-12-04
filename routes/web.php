@@ -2,8 +2,10 @@
 
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
+use  App\Http\Controllers\VendorPanel\VendorController;
 use App\Http\Controllers\AdminPanel\AdminController;
-use App\Http\Controllers\VendorPanel\VendorController;
+
+
 
 
 /*
